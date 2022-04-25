@@ -11,6 +11,7 @@ As a user, I should be able to:
 - Search for a location and see the weather forecast for that location
 - Toggle between the metric and imperial system when displaying units
 - Refresh the weather for the selected location
+- The app should pull weather data from https://www.metaweather.com/api/
 
 ## How To Run The App
 Assuming that Flutter is installed and all checks for `flutter doctor` have passed, here are some directions for running the app.
